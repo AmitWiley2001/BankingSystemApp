@@ -11,4 +11,6 @@ The standalone program upon executing need to show below Menu:
 6.	Show All Customers
 7.	Search Customers by Name
 8.	Exit
+
 Keep on displaying the above menu until 8 (i.e., Exit) is not entered by the User.
+
